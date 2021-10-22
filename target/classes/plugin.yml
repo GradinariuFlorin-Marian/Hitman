@@ -1,0 +1,7 @@
+main: ro.ang3l.hitman.Main
+name: Hitman
+version: 1.0
+api-version: 1.17
+commands:
+  hitman:
+    description: Help for hitman commands.
